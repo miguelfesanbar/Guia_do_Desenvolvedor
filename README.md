@@ -1,6 +1,6 @@
-# Guia do Desenvolvedor
+# Guia do Desenvolvedor :computer:
 
-#### Guia para desenvolver, baseado no livro Clean Code
+#### Guia para desenvolver códigos limpos e organizados, baseado no livro Clean Code de Robert C. Martin 
 
 Uma parte importante na criação e desenvolvimentos de códigos é a organização e a aplicação de boas práticas que permitam que o software seja legível, tanto pelo próprio autor, quanto por outros programadores. 
 
